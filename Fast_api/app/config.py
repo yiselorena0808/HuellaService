@@ -1,0 +1,5 @@
+# config.py
+
+SUPABASE_URL = "https://aiuqnhdflqoojhbmbxvl.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFpdXFuaGRmbHFvb2poYm1ieHZsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NTcyMDE3OCwiZXhwIjoyMDcxMjk2MTc4fQ.A9YxjABHDFhCBQBD1vkndWfLdHxWFjNIfyi-IqIwfks"
+SUPABASE_TABLE = "huellas"
